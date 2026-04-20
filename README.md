@@ -1,9 +1,14 @@
-<h1 align="left">akxios</h1><p align="left">
-  code • mistakes • fixes
-</p><p align="left">
-  python / docker / js
-</p><p align="left">
-  <a href="https://t.me/zilokipik">telegram</a>
-</p><p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akxios&style=flat-square" />
-</p>
+<div align="center">
+
+# akxios
+
+✨ гуглю
+📚 читаю ошибки
+🎯 иногда понимаю их значение
+🎲 не трогаю если работает
+
+<img src="https://komarev.com/ghpvc/?username=Akxios&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count"/>
+
+Телеграм - [Ссылка](https://t.me/akxea)  
+
+</div>

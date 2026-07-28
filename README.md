@@ -2,11 +2,16 @@
 
 # akxios
 
-![Windows](https://img.shields.io/badge/OS-Windows%2011%20Pro-0078D6?style=flat-square)
-![WinRAR](https://img.shields.io/badge/WinRAR-Licensed-7b3e15?style=flat-square)
-[![Max](https://img.shields.io/badge/Messenger-Я_в_Max-0078D6?style=flat-square)](https://t.me/akxea)
-<img src="https://komarev.com/ghpvc/?username=Akxios&label=Visitors&color=blue&style=flat-square" alt="Visitor Count"/>
+<img src="https://img.shields.io/badge/Windows-11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white&labelColor=2b2b40">
+<img src="https://img.shields.io/badge/WinRAR-Licensed-7A4B32?style=for-the-badge&logo=winrar&logoColor=white&labelColor=2b2b40">
+<a href="https://t.me/aqukz">
+  <img src="https://img.shields.io/badge/Telegram-aqukz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b40">
+</a>
 
-гуглю • читаю ошибки • иногда понимаю • не трогаю если работает
+<br>
+
+Python — когда надо сделать • Rust — когда надо понять
+<br>
+<sub>гуглю • читаю ошибки • иногда понимаю, что они значат • не трогаю, если работает</sub>
 
 </div>

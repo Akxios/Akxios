@@ -9,6 +9,28 @@
 </a>
 
 <br>
-<sub>гуглю • читаю ошибки • иногда понимаю, что они значат • не трогаю, если работает</sub>
+<sub>googling things • reading errors • occasionally understanding them • not touching what works</sub>
+
+## my stack (unfortunately)
+
+<img src="https://img.shields.io/badge/Python-3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2b40">
+<img src="https://img.shields.io/badge/Go-1.27+-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=2b2b40">
+
+<br>
+<sub>two languages • same bugs • different syntax</sub>
+
+<br>
+
+## languages i have beef with
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akxios&layout=compact&langs_count=5&title_color=ffffff&text_color=c9d1d9&bg_color=2b2b40&hide_border=true" alt="Most Used Languages">
+</a>
+
+<br>
+<sub>i don't believe these figures.</sub>
+
 
 </div>
+
+
